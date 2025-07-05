@@ -72,7 +72,7 @@
 ### 📫 Onde me encontrar
 
 - ✉️ Email: **amandarodriguesaraujo0312@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/amandaaraujo]((https://www.linkedin.com/in/amanda-rodrigues-2a9196335/))
+- 💼 LinkedIn: (https://www.linkedin.com/in/amanda-rodrigues-2a9196335/)
 
 ---
 
