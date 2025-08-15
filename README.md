@@ -53,11 +53,11 @@
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaaraujo&show_icons=true&theme=tokyonight&count_private=true"/>
- 
-</p>
-
+<div>
+<a href="https://github.com/aamandaa0312">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 ---
 
 ### 📚 Últimos aprendizados
