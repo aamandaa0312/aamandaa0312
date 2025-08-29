@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou a Amanda Araújo!</h1>
+<h1 align="center">👋 Olá, eu sou a Amanda Araujo!</h1>
 
 <p align="center">
 🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no SENAI<br>
