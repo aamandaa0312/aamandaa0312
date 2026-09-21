@@ -9,16 +9,15 @@
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About Me
 
-- 💻 Atualmente desenvolvendo apps com **React Native**, **Node.js** e **MySQL**
-- 📱 Autora do app **ScanPatrimônio**: sistema de gestão de bens com QR Code
-- 🔬 Projeto de sensor de cádmio com eletrodo de pasta de carbono (voltametria cíclica)
-- 🧭 Ex-presidente do **SESI Estudantil**
-- 📢 formada em curso de inglês do **CCAA**
-- 🎤 Participante ativa em debates, apresentações escolares e eventos temáticos
+I'm a Computer Science student at the University of Toronto with a background in Systems Development and scientific research.
 
----
+Before starting my undergraduate studies, I completed a Technical Diploma in Systems Development at SENAI, where I developed hands-on experience with software development, databases, project management, and application development.
+
+I also conducted scientific research at São Paulo State University (UNESP), working on the development of electrochemical sensors for the detection of cadmium in water using carbon-paste electrodes modified with multi-walled carbon nanotubes.
+
+I enjoy combining technology, science, and problem-solving to build practical solutions and continuously expand my technical skills.
 
 ### 🛠️ Tecnologias & Ferramentas que domino
 
@@ -41,12 +40,14 @@
 ### 🚀 Projetos em Destaque
 
 - **ScanPatrimônio**  
-  📲 App para escanear, cadastrar e visualizar bens patrimoniais via QR Code.  
-  🔧 Stack: React Native, Node.js, Express, MySQL.
+  A mobile asset management application developed to help track and manage institutional assets using QR codes.
 
-- **TCP: Ciência e Ética no Nazismo**  
-  📘 Pesquisa com análise crítica dos experimentos médicos nazistas e o legado ético para a ciência.  
-  📄 Apresentado com slides, vídeo e referências ABNT.
+Tech: React Native • Expo • Node.js • Express.js • MySQL
+
+- **Pure Water**  
+  An educational web project focused on technology, water resources, and environmental awareness.
+
+  Recognition: 2nd Place — Western São Paulo Technology Fair
 
 ---
 
@@ -59,16 +60,8 @@
 </div>
 ---
 
-### 📚 Últimos aprendizados
 
-- 📲 Criação de apps com React Native + Expo  
-- 🧠 Estrutura de bancos de dados relacionais  
-- 📦 Backend com Express.js e autenticação JWT  
-- ⚗️ Voltametria e detecção de metais pesados  
-
----
-
-### 📫 Onde me encontrar
+### 📫 Let's Connect
 
 - ✉️ Email: **amandarodriguesaraujo0312@gmail.com**
 - 💼 LinkedIn: (https://www.linkedin.com/in/amanda-rodrigues-2a9196335/)
@@ -76,5 +69,5 @@
 ---
 
 <p align="center">
-✨ Obrigada por visitar meu perfil! Vamos transformar ideias em soluções reais. ✨
+✨Thanks for visiting my profile!✨
 </p>
