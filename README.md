@@ -1,11 +1,10 @@
-<h1 align="center">👋 Olá, eu sou a Amanda Araujo!</h1>
+<h1 align="center">👋 Hi, I'm Amanda!</h1>
 
 <p align="center">
-🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no SENAI<br>
-🧪 Apaixonada por tecnologia, ciência e impacto social<br>
-🏅 Medalhista em olimpíadas científicas e líder em projetos escolares<br>
-💡 Criadora de soluções criativas</strong><br>
-🌎 Foco em desenvolvimento web, mobile, e aplicações com propósito
+🎓 <strong>Computer Science</strong> student at the University of Toronto<br>
+💻 Interested in Software Development, Web & Mobile Applications, and Technology<br>
+🔬 Background in Scientific Research and Environmental Applications</strong><br>
+🌎 Passionate about building technology that addresses real-world problems
 </p>
 
 ---
